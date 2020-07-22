@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(116, 220, 255);
+}
+body:hover{
+    background-color: rgb(194, 240, 255);
+
+}
+
+.linea-horizontal{
+    margin-top: 0rem;
+    border-style: solid;
+    border-color: #2B9AB3;
+    border-width: 20px;
+    
+    
+    }
+
+
+.titulo{
+text-align: center;
+font-size: 5rem;
+
+
+}
+
+.circle{
+
+    position: absolute;
+    width: 120px;
+    height: 110px;
+    left: 550px;
+    top: 190px;
+    
+   
+    border-style: solid;
+    border-color: gray;
+    border-width: 35px;
+    border-radius: 100%;
+    }
+
+    .cargando{
+    text-align: center;
+    font-size: 5rem;
+    margin-top: 13rem;
+
+    }
+
+    .segunda-linea-horizontal{
+        margin-top: -2.5rem;
+        border-style: solid;
+        border-color: #2B9AB3;
+        border-width: 40px;
+        }

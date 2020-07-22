@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(116, 220, 255);
+}
+body:hover{
+    background-color: rgb(194, 240, 255);
+}
+    
+.linea-inclinada-1{ position: absolute;
+width: 1500px;
+height: 0px;
+left: -40px;
+top: 225px;
+
+border: 9px solid gray;
+transform: rotate(-19.17deg);
+}
+
+.linea-inclinada-2{
+    position: absolute;
+    width: 552px;
+    height: 0;
+    left: 100px;
+    top:642px;
+
+    border: 4px solid gray;
+    transform: rotate(60deg);
+}
+
+.circulo{
+
+    position: absolute;
+width: 120px;
+height: 110px;
+left: 1000px;
+top: 256px;
+
+background: #B3CDD3;
+border-style: solid;
+border-color: gray;
+border-width: 15px;
+border-radius: 100%;
+}
+.cliente{
+    margin-top: 20rem;
+    margin-left: 49rem;
+    font-size: 2rem;
+}
+a { color: black;
+    text-decoration: none;
+ }
+
+.rectangulo{
+margin-top:-15rem;
+margin-left: 7rem;
+width: 12px;
+border-style: solid;
+border-color: #2B9AB3;
+border-width: 20px; 
+
+}
+
+.linea-horizontal{
+    margin-top: -10rem;
+    border-style: solid;
+    border-color: #2B9AB3;
+    border-width: 20px;
+    
+    
+    }
+
+    .segunda-linea-horizontal{
+        margin-top: 53rem;
+        border-style: solid;
+        border-color: #2B9AB3;
+        border-width: 40px; 
+        }
