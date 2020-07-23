@@ -1,11 +1,11 @@
 body{
     background-color: rgb(116, 220, 255);
 }
-body:hover{
+:hover{
     background-color: rgb(194, 240, 255);
 }
     
-.linea-inclinada-1{ position: absolute;
+  .linea-inclinada-1{ position: absolute;
 width: 1500px;
 height: 0px;
 left: -40px;
@@ -13,7 +13,7 @@ top: 225px;
 
 border: 9px solid gray;
 transform: rotate(-19.17deg);
-}
+} 
 
 .linea-inclinada-2{
     position: absolute;
@@ -41,9 +41,11 @@ border-width: 15px;
 border-radius: 100%;
 }
 .cliente{
-    margin-top: 20rem;
-    margin-left: 49rem;
-    font-size: 2rem;
+    position: absolute;
+    left: 49rem;
+    top: 20rem;
+    font-size: 2rem
+    
 }
 a { color: black;
     text-decoration: none;
@@ -73,4 +75,4 @@ border-width: 20px;
         border-style: solid;
         border-color: #2B9AB3;
         border-width: 40px; 
-        }
+        } 
