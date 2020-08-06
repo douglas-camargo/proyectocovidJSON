@@ -98,7 +98,7 @@ body:hover{
 
     .box{
         position: absolute;
-    height: 300px;
+    height: 325px;
     width: 700px;
     left: 3rem;
     top: 13rem;
@@ -106,161 +106,66 @@ body:hover{
     border: 0.9rem solid #626262;
     border-radius: 30px;
     }
-
-    .lineadecaja1{
+    .pokemonn_1{text-transform: capitalize;
         position: absolute;
-        width: 460px;
-        height: 40px;
-        top: 15rem;
-        left: 5rem;
-        background-color: #C4C4C4 ;
+        top:-1rem;
+        left: 10rem;
+        font-size: 2rem;}
 
-    }
+        .pokemonn_2{
+            text-transform: capitalize;
+            position: absolute;
+            top:4rem;
+            left: 10rem;
+            font-size: 2rem;}
 
-    .lineadecaja2{
-        position: absolute;
-        width: 460px;
-        height: 40px;
-        top: 19.5rem;
-        left: 5rem;
-        background-color: #C4C4C4 ;
+            .pokemonn_3{
+                text-transform: capitalize;
+                position: absolute;
+                top:9rem;
+                left: 10rem;
+                font-size: 2rem;}
 
-    }
+                .pokemonn_4{text-transform: capitalize;
+                    position: absolute;
+                    top:14rem;
+                    left: 10rem;
+                    font-size: 2rem;}
 
-    .lineadecaja3{
-        position: absolute;
-        width: 460px;
-        height: 40px;
-        top: 24rem;
-        left: 5rem;
-        background-color: #C4C4C4 ;
+        .imagen1{
+            position: absolute;
+            top:-0.5rem;
+            left: 30rem;
+            
+            width: 100px; height: 100px;
+        }
 
-    }
+        .imagen2{
+            position: absolute;
+            top:4.5rem;
+            left: 30rem;
+            
+            width: 100px; height: 100px;
+        }
 
-    .lineadecaja4{
-        position: absolute;
-        width: 460px;
-        height: 40px;
-        top: 28.5rem;
-        left: 5rem;
-        background-color: #C4C4C4 ;
+        .imagen3{
+            position: absolute;
+            top:9.5rem;
+            left: 30rem;
+            
+            width: 100px; height: 100px;
+        }
 
-    }
-    
-    .circulonaranja{
-
-        position: absolute;
-        width:  40px;
-        height: 40px;
-        left: 580px;
-        top: 15rem;
-                
-        background: #FF5C01;
-        border-style: solid;
-        border-color:#FF5C01;
-        border-width: 5px; 
-        border-radius: 100%;
-
-    }
-
-    .circulonaranja1{
-        position: absolute;
-        width:  40px;
-        height: 40px;
-        left: 580px;
-        top: 19.5rem;
-                
-        background: #FF5C01;
-        border-style: solid;
-        border-color:#FF5C01;
-        border-width: 5px; 
-        border-radius: 100%;
-    }
-
-    .circulonaranja2{
-        position: absolute;
-        width:  40px;
-        height: 40px;
-        left: 580px;
-        top: 24rem;
-                
-        background: #FF5C01;
-        border-style: solid;
-        border-color:#FF5C01;
-        border-width: 5px; 
-        border-radius: 100%;
-    }
-
-    .circulonaranja3{
-        position: absolute;
-        width:  40px;
-        height: 40px;
-        left: 580px;
-        top: 28.5rem;
-                
-        background: #FF5C01;
-        border-style: solid;
-        border-color:#FF5C01;
-        border-width: 5px; 
-        border-radius: 100%;
-    }
+        .imagen4{
+            position: absolute;
+                    top:14.5rem;
+                    left: 30rem;
+                    
+            width: 100px; height: 100px;
+        }
 
 
-    .circuloverde{
-        position: absolute;
-        width:  40px;
-        height: 40px;
-        left: 680px;
-        top: 15rem;
-                
-        background: #21E157;
-        border-style: solid;
-        border-color:#21E157;
-        border-width: 5px; 
-        border-radius: 100%;
-    }
-
-    .circuloverde1{
-        position: absolute;
-        width:  40px;
-        height: 40px;
-        left: 680px;
-        top: 19.5rem;
-                
-        background: #21E157;
-        border-style: solid;
-        border-color:#21E157;
-        border-width: 5px; 
-        border-radius: 100%; 
-    }
-
-    .circuloverde2{
-        position: absolute;
-        width:  40px;
-        height: 40px;
-        left: 680px;
-        top: 24rem;
-                
-        background: #21E157;
-        border-style: solid;
-        border-color:#21E157;
-        border-width: 5px; 
-        border-radius: 100%;     
-    }
-
-    .circuloverde3{
-        position: absolute;
-        width:  40px;
-        height: 40px;
-        left: 680px;
-        top: 28.5rem;
-                
-        background: #21E157;
-        border-style: solid;
-        border-color:#21E157;
-        border-width: 5px; 
-        border-radius: 100%;    
-    }
+   
 
 .segunda-linea-horizontal{
     margin-top: 23rem;
